@@ -23,7 +23,7 @@ pywin32==228
 requests==2.25.1
 soupsieve==1.9.6
 SpeechRecognition==3.8.1
-urllib3==1.26.3
+urllib3==1.26.4
 wikipedia==1.4.0
 wincertstore==0.2
 zope.interface==5.2.0
